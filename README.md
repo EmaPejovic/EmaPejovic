@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmilijaPejovic
+- 👋 Hi, I’m @EmaPejovic
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
